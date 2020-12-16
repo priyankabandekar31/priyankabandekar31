@@ -3,7 +3,7 @@
 
 **priyankabandekar31/priyankabandekar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-A software professional seeking MS in Information Systems from Northeastern University, Boston. My courses so far include Data Science, Advanced UX, Software Engineering, Data Warehousing and Business Intelligence, Database Management and Design. I am keen on working for positions that incorporate data engineering, data analytics and programming advancement
+A software professional seeking MS in Information Systems from Northeastern University, Boston. My courses so far include **Data Science**, **Advanced UX**, **Software Engineering**, **Data Warehousing** and **Business Intelligence, Database Management and Design**. I am keen on working for positions that incorporate data engineering, data analytics and programming advancement
 
 I have 18 months of work experience at Accenture, a well known MNC, as a Software Engineer which allowed me to work in the field of data. This gave me a chance to work with prestigious technologists in the business. I am confident that given an opportunity, I will be able to make sense out of any raw data to drive impactful business decisions.
 
