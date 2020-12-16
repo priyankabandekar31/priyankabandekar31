@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Hi there 👋
 
 **priyankabandekar31/priyankabandekar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,7 +7,7 @@ A software professional seeking MS in Information Systems from Northeastern Univ
 I have 18 months of work experience at Accenture, a well known MNC, as a Software Engineer which allowed me to work in the field of data. This gave me a chance to work with prestigious technologists in the business. I am confident that given an opportunity, I will be able to make sense out of any raw data to drive impactful business decisions.
 
 
-#### Skills 💻
+### Skills 💻
 
 **Programming Language(s):** JAVA, Python, SQL, JavaScript, PHP, HTML, CSS <br>
 **Software:** NetBeans IDE, Selenium, Unified Functional Testing, Google Analytics, Microsoft Office, WinSCP, GitHub <br>
@@ -20,7 +19,7 @@ I have 18 months of work experience at Accenture, a well known MNC, as a Softwar
 **Web Server:** Jazz Team Server, Apache Tomcat <br>
 
 
-#### 📫 Where to find me
+### 📫 Where to find me
 
 Feel Free to reach out!
 
