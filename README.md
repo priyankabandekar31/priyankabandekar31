@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **priyankabandekar31/priyankabandekar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 A software professional seeking MS in Information Systems from Northeastern University, Boston. My courses so far include Data Science, Advanced UX, Software Engineering, Data Warehousing and Business Intelligence, Database Management and Design. I am keen on working for positions that incorporate data engineering, data analytics and programming advancement
@@ -28,7 +28,7 @@ Feel Free to reach out!
 * <a href="https://www.priyankabandekar.com/">Portfolio</a> 💻
 * <a href="https://www.linkedin.com/in/priyankabandekar31/">LinkedIn</a> 💼
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
