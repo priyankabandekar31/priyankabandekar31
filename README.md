@@ -10,14 +10,14 @@ I have 18 months of work experience at Accenture, a well known MNC, as a Softwar
 
 #### Skills 💻
 
-**Programming Language(s):** JAVA, Python, SQL, JavaScript, PHP, HTML, CSS
-**Software:** NetBeans IDE, Selenium, Unified Functional Testing, Google Analytics, Microsoft Office, WinSCP, GitHub
-**Databases:** MySQL, Oracle 11g, PostgreSQL, Azure SQL, Teradata SQL, Microsoft SQL Server Management Studio
-**Data Integration and BI Tools:** Talend, Alteryx Designer, Talend Bigdata Sandbox, PowerBI, Tableau
-**Machine Learning:** Regression, Classification Trees, Regression and Predictive modelling, SVM, Random Forests, Boosting
-**Design tools and User Experience:** Sketch, Figma, Adobe XD, Balsamiq, Invision, Adobe Illustrator, Adobe Animate, Adobe Photoshop, User Research, User Testing,
-**Other Tools:** ER Studio Architect, GIT, Bitbucket, Jupyter, Advance Excel
-**Web Server:** Jazz Team Server, Apache Tomcat
+**Programming Language(s):** JAVA, Python, SQL, JavaScript, PHP, HTML, CSS <br>
+**Software:** NetBeans IDE, Selenium, Unified Functional Testing, Google Analytics, Microsoft Office, WinSCP, GitHub <br>
+**Databases:** MySQL, Oracle 11g, PostgreSQL, Azure SQL, Teradata SQL, Microsoft SQL Server Management Studio <br>
+**Data Integration and BI Tools:** Talend, Alteryx Designer, Talend Bigdata Sandbox, PowerBI, Tableau <br>
+**Machine Learning:** Regression, Classification Trees, Regression and Predictive modelling, SVM, Random Forests, Boosting <br>
+**Design tools and User Experience:** Sketch, Figma, Adobe XD, Balsamiq, Invision, Adobe Illustrator, Adobe Animate, Adobe Photoshop, User Research, User Testing <br>
+**Other Tools:** ER Studio Architect, GIT, Bitbucket, Jupyter, Advance Excel <br>
+**Web Server:** Jazz Team Server, Apache Tomcat <br>
 
 
 #### 📫 Where to find me
